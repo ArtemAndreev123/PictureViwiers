@@ -1,0 +1,20 @@
+C:\Users\29387045\Desktop\PictureViewer, AndreevArtem02IPo8281\bin\Debug\PictureViewer, AndreevArtem02IPo8281.exe.config
+C:\Users\29387045\Desktop\PictureViewer, AndreevArtem02IPo8281\bin\Debug\PictureViewer, AndreevArtem02IPo8281.exe
+C:\Users\29387045\Desktop\PictureViewer, AndreevArtem02IPo8281\bin\Debug\PictureViewer, AndreevArtem02IPo8281.pdb
+C:\Users\29387045\Desktop\PictureViewer, AndreevArtem02IPo8281\obj\Debug\PictureViewer, AndreevArtem02IPo8281.csprojAssemblyReference.cache
+C:\Users\29387045\Desktop\PictureViewer, AndreevArtem02IPo8281\obj\Debug\PictureViewer__AndreevArtem02IPo8281.Properties.Resources.resources
+C:\Users\29387045\Desktop\PictureViewer, AndreevArtem02IPo8281\obj\Debug\PictureViewer, AndreevArtem02IPo8281.csproj.GenerateResource.cache
+C:\Users\29387045\Desktop\PictureViewer, AndreevArtem02IPo8281\obj\Debug\PictureViewer, AndreevArtem02IPo8281.csproj.CoreCompileInputs.cache
+C:\Users\29387045\Desktop\PictureViewer, AndreevArtem02IPo8281\obj\Debug\PictureViewer, AndreevArtem02IPo8281.exe
+C:\Users\29387045\Desktop\PictureViewer, AndreevArtem02IPo8281\obj\Debug\PictureViewer, AndreevArtem02IPo8281.pdb
+C:\Users\29387045\Desktop\PictureViewer, AndreevArtem02IPo8281\obj\Debug\PictureViewer__AndreevArtem02IPo8281.Form1.resources
+C:\Users\29387045\Downloads\PictureViewer, AndreevArtem02IPo8281\PictureViewer, AndreevArtem02IPo8281\bin\Debug\PictureViewer, AndreevArtem02IPo8281.exe.config
+C:\Users\29387045\Downloads\PictureViewer, AndreevArtem02IPo8281\PictureViewer, AndreevArtem02IPo8281\bin\Debug\PictureViewer, AndreevArtem02IPo8281.exe
+C:\Users\29387045\Downloads\PictureViewer, AndreevArtem02IPo8281\PictureViewer, AndreevArtem02IPo8281\bin\Debug\PictureViewer, AndreevArtem02IPo8281.pdb
+C:\Users\29387045\Downloads\PictureViewer, AndreevArtem02IPo8281\PictureViewer, AndreevArtem02IPo8281\obj\Debug\PictureViewer__AndreevArtem02IPo8281.Form1.resources
+C:\Users\29387045\Downloads\PictureViewer, AndreevArtem02IPo8281\PictureViewer, AndreevArtem02IPo8281\obj\Debug\PictureViewer__AndreevArtem02IPo8281.Properties.Resources.resources
+C:\Users\29387045\Downloads\PictureViewer, AndreevArtem02IPo8281\PictureViewer, AndreevArtem02IPo8281\obj\Debug\PictureViewer, AndreevArtem02IPo8281.csproj.GenerateResource.cache
+C:\Users\29387045\Downloads\PictureViewer, AndreevArtem02IPo8281\PictureViewer, AndreevArtem02IPo8281\obj\Debug\PictureViewer, AndreevArtem02IPo8281.csproj.CoreCompileInputs.cache
+C:\Users\29387045\Downloads\PictureViewer, AndreevArtem02IPo8281\PictureViewer, AndreevArtem02IPo8281\obj\Debug\PictureViewer, AndreevArtem02IPo8281.exe
+C:\Users\29387045\Downloads\PictureViewer, AndreevArtem02IPo8281\PictureViewer, AndreevArtem02IPo8281\obj\Debug\PictureViewer, AndreevArtem02IPo8281.pdb
+C:\Users\29387045\Downloads\PictureViewer, AndreevArtem02IPo8281\PictureViewer, AndreevArtem02IPo8281\obj\Debug\PictureViewer__AndreevArtem02IPo8281.AboutBox1.resources
